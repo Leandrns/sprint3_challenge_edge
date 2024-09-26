@@ -47,6 +47,7 @@ Para isso, o grupo CLIRV Technologies está desenvolvendo um site com uma interf
 - <p>NMEA.h</p>
 - <p>gps-fake.chip.c</p>
 - <p>fake-gps.chip.json</p>
+- <p>libraries.txt</p>
 
 
 ## Requisitos
