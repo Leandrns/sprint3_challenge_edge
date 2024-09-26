@@ -70,7 +70,7 @@ Adafruit GFX Library</p>
   2. O nível da bateria está sendo simulado através do potenciômentro slider (à esquerda), para ver o funcionamento basta arrastar a barra para cima ou para baixo. A oscilação pode ser observada através da barra de leds, localizada acima do Arduino.
 </p>
 
-##Draft de Arquitetura
+## Draft de Arquitetura
 <br><br>
 <img src="iot.PNG" width="800px">
 <img src="backend.PNG" width="800px">
