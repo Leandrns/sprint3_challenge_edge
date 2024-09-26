@@ -12,7 +12,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <br><br>
-Simulação no Wokwi [aqui](https://wokwi.com/projects/400696539916996609)
+Simulação no Wokwi [aqui](https://wokwi.com/projects/409857214540221441)
 
 ## Integrantes:
 <p>Caio Alexandre dos Santos - RM: 558460</p>
