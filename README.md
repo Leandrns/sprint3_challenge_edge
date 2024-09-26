@@ -31,14 +31,13 @@ Para isso, o grupo CLIRV Technologies está desenvolvendo um site com uma interf
 ## Componentes
 <h3>Foram usados os seguintes componentes disponíveis na plataforma Wokwi:</h3>
 
-- <p>1 Arduino Mega 2560</p>
-- <p>1 Led Bar</p>
+- <p>1 ESP32</p>
 - <p>1 Slide-Potentiometer</p>
 - <p>1 Display OLED ssd 1306</p>
 - <p>1 Half-Breadboard</p>
 - <p>1 GPS Fake-breakout</p>
 - <p>10 Resistores de 220Ω</p>
-- <p>42 cabos Jumper</p>
+- <p>36 cabos Jumper</p>
 
 <h3>Foram usados os seguintes arquivos:</h3>
 
@@ -47,10 +46,11 @@ Para isso, o grupo CLIRV Technologies está desenvolvendo um site com uma interf
 - <p>NMEA.cpp</p>
 - <p>NMEA.h</p>
 - <p>gps-fake.chip.c</p>
+- <p>fake-gps.chip.json</p>
 
 
 ## Requisitos
--  É necessário acessar a plataforma Wokwi através do [link](https://wokwi.com/projects/400696539916996609) do projeto.
+-  É necessário acessar a plataforma Wokwi através do [link](https://wokwi.com/projects/409857214540221441) do projeto.
 - <p>Não é preciso criar uma conta no Wokwi para fazer a simulação;<p>
 - Wokiwi pode ser acessado em qualquer navegador.
 
