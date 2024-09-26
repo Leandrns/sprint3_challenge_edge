@@ -69,3 +69,8 @@ Adafruit GFX Library</p>
   1. Para simular o projeto, basta apertar no botão de play do Wokwi. <br>
   2. O nível da bateria está sendo simulado através do potenciômentro slider (à esquerda), para ver o funcionamento basta arrastar a barra para cima ou para baixo. A oscilação pode ser observada através da barra de leds, localizada acima do Arduino.
 </p>
+
+<br><br>
+<img src="iot.PNG" width="800px">
+<img src="backend.PNG" width="800px">
+<img src="fronts.PNG" width="800px">
