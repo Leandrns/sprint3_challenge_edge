@@ -61,7 +61,7 @@ Adafruit GFX Library</p>
 
 ## Circuito e Instruções de Uso
 <div align=center>
-  <img src="https://github.com/Leandrns/edge-challenge-mahindra/assets/162998083/4aae6882-300f-42b8-9b38-ab16c1367fda" width="800px">
+  <img src="arduino_foto_nova.PNG" width="800px">
   <img src="https://github.com/Leandrns/edge-challenge-mahindra/assets/162998083/8f2d33e5-3b99-4e37-9c67-7c9ba860c427">
 </div>
 
