@@ -73,6 +73,9 @@ Adafruit GFX Library</p>
 
 ## Draft de Arquitetura
 <br><br>
-<img src="iot.PNG" width="800px">
-<img src="backend.PNG" width="800px">
-<img src="fronts.PNG" width="800px">
+<div align=center>
+  <img src="iot.PNG" width="800px">
+  <img src="backend.PNG" width="800px">
+  <img src="fronts.PNG" width="800px">
+</div>
+
