@@ -28,6 +28,8 @@ Para isso, o grupo CLIRV Technologies está desenvolvendo um site com uma interf
 
 ## Funcionalidades
 <p>Neste protótipo, vamos demonstrar a coleta de dados dos carros de corrida em tempo real para nossa plataforma. Os dados incluem a quantidade de bateria, a velocidade dos carros e a posição dos pilotos na pista. </p>
+<p>Esses dados são enviados para o Node-Red utilizando a funcionalidade de WiFi do ESP32 e o protocolo de comunicação MQTT, a partir de um broker aberto no site HiveMQ.</p>
+<p>Com os dados no Node-Red, é utilizada a biblioteca 'dashboard' para construir uma visualização mais amigável dos dados.</p>
 
 ## Componentes
 <h3>Foram usados os seguintes componentes disponíveis na plataforma Wokwi:</h3>
@@ -52,12 +54,11 @@ Para isso, o grupo CLIRV Technologies está desenvolvendo um site com uma interf
 
 
 ## Requisitos
--  É necessário acessar a plataforma Wokwi através do [link](https://wokwi.com/projects/409857214540221441) do projeto.
+-  É necessário acessar a plataforma Wokwi através do [link](https://wokwi.com/projects/409857214540221441) do projeto;
 - <p>Não é preciso criar uma conta no Wokwi para fazer a simulação;<p>
-- Wokiwi pode ser acessado em qualquer navegador.
-
-- <p>É necessário instalar as seguintes bibliotecas na aba Project Libraries: Adafruit SSD1306 e
-Adafruit GFX Library</p>
+- Wokwi pode ser acessado em qualquer navegador;
+- <p>É necessário instalar as seguintes bibliotecas na aba Project Libraries: <code>Adafruit SSD1306</code>, <code>Adafruit GFX Library</code>, <code>ArduinoJSON</code> e <code>PubSubClient.</code></p>
+- <p>No Node-Red, é necessário instalar a biblioteca <code>node-red-dashboard</code></p>
 
 
 ## Circuito e Instruções de Uso
