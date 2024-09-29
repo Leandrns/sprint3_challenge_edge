@@ -56,6 +56,11 @@ Para isso, o grupo CLIRV Technologies está desenvolvendo um site com uma interf
 - <p>Não é preciso criar uma conta no Wokwi para fazer a simulação;<p>
 - Wokwi pode ser acessado em qualquer navegador;
 - <p>É necessário instalar as seguintes bibliotecas na aba Project Libraries: <code>Adafruit SSD1306</code>, <code>Adafruit GFX Library</code>, <code>ArduinoJSON</code> e <code>PubSubClient.</code></p>
+- O Node.js precisa estar instalado no seu sistema. Caso não tenha instalado, baixe [aqui](https://nodejs.org/pt).
+- <p>Caso não tenha o Node-Red instalado, execute o seguinte comando no cmd: <code>npm install -g --unsafe-perm node-red</code>.</p>
+- <p>Para executar o Node-Red, execute o comando <code>node-red</code> no cmd.</p>
+- <p>Para abrir a interface do Node-Red, pesquise por <code>http://127.0.0.1:1880/</code> no seu navegador.</p>
+- <p>Importe o arquivo <i>flow.json</i>.</p>
 - <p>No Node-Red, é necessário instalar a biblioteca <code>node-red-dashboard</code></p>
 
 
@@ -66,6 +71,8 @@ Para isso, o grupo CLIRV Technologies está desenvolvendo um site com uma interf
 </div>
 
 <br><p>
+  1. Acesse o [HiveMQ Websocket Client](https://www.hivemq.com/demos/websocket-client/) e clique em "Connect" para se conectar ao broker. <br>
+  2. Abra seu Prompt de Comando (cmd) e digite o comando
   1. Para simular o projeto, basta apertar no botão de play do Wokwi. <br>
   2. O nível da bateria está sendo simulado através do potenciômentro slider (à esquerda), para ver o funcionamento basta arrastar a barra para cima ou para baixo. A oscilação pode ser observada através da barra de leds, localizada acima do Arduino.
 </p>
