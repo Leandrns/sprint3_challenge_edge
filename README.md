@@ -58,7 +58,6 @@ Para isso, o grupo CLIRV Technologies está desenvolvendo um site com uma interf
 - <p>É necessário instalar as seguintes bibliotecas na aba Project Libraries: <code>Adafruit SSD1306</code>, <code>Adafruit GFX Library</code>, <code>ArduinoJSON</code> e <code>PubSubClient.</code></p>
 - O Node.js precisa estar instalado no seu sistema. Caso não tenha instalado, baixe [aqui](https://nodejs.org/pt).
 - <p>Caso não tenha o Node-Red instalado, execute o seguinte comando no cmd: <code>npm install -g --unsafe-perm node-red</code>.</p>
-- <p>Importe o arquivo <i>flow.json</i>.</p>
 - <p>No Node-Red, é necessário instalar a biblioteca <code>node-red-dashboard</code></p>
 
 
