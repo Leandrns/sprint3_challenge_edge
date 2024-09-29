@@ -1,6 +1,4 @@
-# sprint3_challenge_edge
-
-<h1 align="center">Edge Challenge</h1>
+<h1 align="center">Challenge - Tech Mahindra</h1>
 <h2 align="center">Entrega da disciplina de Edge Computing</h2>
 <div align="center">
 
